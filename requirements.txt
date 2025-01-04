@@ -8,3 +8,6 @@ nbformat
 # App
 google-generativeai # Client library for the Gemini API
 Pillow # PIL image-loading library
+jupyter
+folium
+geopy
